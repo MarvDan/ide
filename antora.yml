@@ -1,0 +1,5 @@
+name: ide
+title: IDE
+version: '1.0'
+nav:
+- modules/ROOT/nav.adoc
